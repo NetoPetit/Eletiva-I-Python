@@ -1,6 +1,6 @@
 import Moldura
 
-class Moldurabasereforcada(Moldura.Moldura):
+class MolduraBaseReforcada(Moldura.Moldura):
 
     def __init__(self):
         super().__init__()
